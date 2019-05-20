@@ -16,4 +16,4 @@ Useful:
 1.This project helps for Timer set to particular set same varaible(object method).
 2.I faced error when button click it fires two value.once i code evt.stopImmediatePropagation(); it got fixed.
 
-Project link for Trivia Game:
+Project link for Trivia Game: https://vijayalakshmitce.github.io/triviagame/
